@@ -1,0 +1,146 @@
+Accelerometer sample rate = 119.00 Hz
+Gyroscope sample rate = 119.00 Hz
+
+punch: 0.463570
+flex: 0.000000
+wave: 0.536430
+
+punch: 0.000003
+flex: 0.000021
+wave: 0.999976
+
+punch: 0.000000
+flex: 0.037430
+wave: 0.962570
+
+punch: 0.936618
+flex: 0.000000
+wave: 0.063382
+
+punch: 0.000872
+flex: 0.000000
+wave: 0.999128
+
+punch: 0.000013
+flex: 0.000005
+wave: 0.999982
+
+punch: 0.000000
+flex: 0.000793
+wave: 0.999207
+
+punch: 0.959346
+flex: 0.000000
+wave: 0.040654
+
+punch: 0.000004
+flex: 0.000021
+wave: 0.999975
+
+punch: 0.000000
+flex: 0.018596
+wave: 0.981404
+
+punch: 0.000018
+flex: 0.000006
+wave: 0.999976
+
+punch: 0.000005
+flex: 0.000022
+wave: 0.999973
+
+punch: 0.000001
+flex: 0.000058
+wave: 0.999941
+
+punch: 0.989643
+flex: 0.000000
+wave: 0.010357
+
+punch: 0.000030
+flex: 0.000002
+wave: 0.999968
+
+punch: 0.000000
+flex: 0.003220
+wave: 0.996780
+
+punch: 0.000000
+flex: 0.010266
+wave: 0.989734
+
+punch: 0.000000
+flex: 0.045897
+wave: 0.954103
+
+punch: 0.000000
+flex: 0.060504
+wave: 0.939496
+
+punch: 0.000000
+flex: 0.051697
+wave: 0.948303
+
+punch: 0.000000
+flex: 0.101150
+wave: 0.898850
+
+punch: 0.000000
+flex: 0.007918
+wave: 0.992082
+
+punch: 0.631795
+flex: 0.000000
+wave: 0.368205
+
+punch: 0.022423
+flex: 0.000000
+wave: 0.977577
+
+punch: 0.658638
+flex: 0.000000
+wave: 0.341362
+
+punch: 0.000000
+flex: 0.960058
+wave: 0.039942
+
+punch: 0.000000
+flex: 0.994320
+wave: 0.005680
+
+punch: 0.000000
+flex: 0.957666
+wave: 0.042334
+
+punch: 0.000000
+flex: 0.999434
+wave: 0.000566
+
+punch: 0.000000
+flex: 0.999779
+wave: 0.000221
+
+punch: 0.000000
+flex: 0.995906
+wave: 0.004094
+
+punch: 0.705523
+flex: 0.000000
+wave: 0.294477
+
+punch: 0.934697
+flex: 0.000000
+wave: 0.065303
+
+punch: 0.300758
+flex: 0.000000
+wave: 0.699242
+
+punch: 0.000860
+flex: 0.000000
+wave: 0.999140
+
+punch: 0.820489
+flex: 0.000000
+wave: 0.179511
